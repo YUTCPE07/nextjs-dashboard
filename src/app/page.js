@@ -14,10 +14,8 @@ export default function Home() {
           priority
         />
         <ol>
-          <li>
-            Get started by editing <code>src/app/page.js</code>.
-          </li>
-          <li>Save and see your changes instantly.</li>
+          <li>Hello world</li>
+          <li>My name Teerapat Suksanghuan</li>
         </ol>
 
         <div className={styles.ctas}>
