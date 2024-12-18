@@ -1,2 +1,2 @@
-# nextjs-dashboard
+# nextjs-shopping
 hello world mextjs
